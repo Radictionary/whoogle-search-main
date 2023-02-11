@@ -2,12 +2,8 @@ html {
     background: var(--whoogle-dark-page-bg) !important;
 }
 
-/* body {
-    background: var(--whoogle-dark-page-bg) !important;
-} */
-
 body {
-    background: rgba(113, 89, 49, 0.574) !important;
+    background: var(--whoogle-dark-page-bg) !important;
 }
 
 div {
